@@ -123,3 +123,6 @@ pnpm-debug.log
 .theia
 
 .results
+
+package.json
+pnpm-lock.yaml
